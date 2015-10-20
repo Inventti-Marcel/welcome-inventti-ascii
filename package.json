@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Inventti-Marcel/welcome-inventti-ascii/issues"
   },
-  "homepage": "https://github.com/Inventti-Marcel/welcome-inventti-ascii#readme"
+  "homepage": "https://github.com/Inventti-Marcel/welcome-inventti-ascii#readme",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
 }
